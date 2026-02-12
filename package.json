@@ -67,7 +67,7 @@
   "devDependencies": {
     "@stryker-mutator/core": "^6.1.2",
     "c8": "^7.12.0",
-    "madge": "^5.0.1",
+    "madge": "^8.0.0",
     "prettier": "^2.7.1",
     "tsd": "^0.22.0",
     "typescript": "^4.8.0-dev.20220729",
